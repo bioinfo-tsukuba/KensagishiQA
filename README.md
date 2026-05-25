@@ -1,2 +1,2 @@
-# LLM_CLT_public
+# KensagishiQA
 臨床検査技師国家試験の過去問ベースのベンチマークデータセット
