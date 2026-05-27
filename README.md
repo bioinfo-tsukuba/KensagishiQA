@@ -1,2 +1,1 @@
-# KensagishiQA
-臨床検査技師国家試験の過去問ベースのベンチマークデータセット
+# {KensagishiQA}: Benchmark data for evaluating large language models on the Japanese National Examination for Clinical Laboratory Technologists
